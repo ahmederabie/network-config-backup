@@ -61,4 +61,4 @@ Python 3.9+, `netmiko`, `pyyaml`. The demo mode only needs `pyyaml`.
 
 ## About
 
-Built as a portfolio piece for network automation and Python scripting work. I'm CCNA-certified and write tools like this for freelance network engineering clients — see also [vlsm-subnet-calculator](https://github.com) for a subnet planning tool.
+Built as a portfolio piece for network automation and Python scripting work. I'm CCNA-certified and write tools like this for freelance network engineering clients — see also [vlsm-subnet-calculator](https://github.com/ahmederabie/vlsm-subnet-calculator) for a subnet planning tool.
