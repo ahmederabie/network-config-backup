@@ -1,0 +1,16 @@
+# Example inventory file for real usage. Copy to devices.yaml and fill in.
+# NEVER commit real credentials to source control - use environment
+# variables or a secrets manager in production.
+devices:
+  - name: core-switch-01
+    host: 10.0.0.1
+    device_type: cisco_ios
+    username: admin
+    password: "changeme"
+    secret: "changeme-enable"
+
+  - name: edge-router-01
+    host: 10.0.0.2
+    device_type: cisco_ios
+    username: admin
+    password: "changeme"
